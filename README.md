@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=¡Hola!%20Soy%20Marian&fontSize=40&fontColor=ffffff" width="1200" />
 ### 💻 Full Stack Developer | 🔮 Desarrolladora en IA | 🛡️ Ciberseguridad | 🛠️ AutoCAD 3D | 🎨 Photoshop 
 
-  Bienvenidos a mi espacio en GitHub, donde la innovación y la tecnología se fusionan. Aquí comparto proyectos que reflejan mi pasión por el desarrollo de soluciones tecnológicas, la inteligencia artificial y el diseño en 3D. 🌟
+Bienvenidos a mi espacio en GitHub, donde la innovación y la tecnología se fusionan. Aquí comparto proyectos que reflejan mi pasión por el desarrollo de soluciones tecnológicas, la inteligencia artificial y el diseño en 3D. 🌟
 
 ![Banner](https://github.com/MarianDark/Marian/blob/main/asset/1.jpeg?raw=true)
-
 
 ---
 
@@ -50,7 +49,6 @@ Soy una desarrolladora apasionada con experiencia en:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
 ---
 
 ## 📈 Estadísticas
@@ -90,5 +88,10 @@ Soy una desarrolladora apasionada con experiencia en:
 "El límite de lo que podemos crear está definido únicamente por nuestra imaginación." 🚀
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=40&fontColor=ffffff" width="1000" />
+</div>
+
 
 ¡Gracias por visitar mi perfil! 💻✨
