@@ -16,7 +16,7 @@ Soy una desarrolladora apasionada con experiencia en:
 - 🔹 **AutoCAD 3D**: Creación de modelos detallados para proyectos de ingeniería.
 - 🔹 **Photoshop**: Diseño y edición gráfica profesional.
 
-✨ Siempre motivada por la curiosidad, en constante búsqueda de desafíos que impulsen mi crecimiento personal y profesional. Creo en el poder del aprendizaje continuo para transformar ideas en realidades innovadoras. 🌟
+✨ Siempre motivada por la curiosidad, en constante búsqueda de desafíos que impulsen mi crecimiento personal y profesional. Creo en el poder del aprendizaje continuo para transformar ideas en realidades innovadoras. ✨
 
 ---
 
@@ -57,6 +57,8 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ![Marian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianDark&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianDark&layout=compact&theme=radical)
+![Snake Animation](https://github.com/MarianDark/MarianDark/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🏆 Trofeos de GitHub
 
