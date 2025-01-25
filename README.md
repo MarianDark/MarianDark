@@ -84,7 +84,7 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f7c9590063793.5e0c23465edc8.gif" width="800" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f7c9590063793.5e0c23465edc8.gif" width="400" />
 </div>
 
 
