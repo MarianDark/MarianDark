@@ -1,4 +1,4 @@
-# 👋 Hola, soy Marian
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=¡Hola!%20Soy%20Marian&fontSize=30&fontColor=ffffff" />
 ### 💻 Full Stack Developer | 🔮 Desarrolladora en IA | 🛡️ Ciberseguridad | 🛠️ AutoCAD 3D | 🎨 Photoshop 
 
 Bienvenidos a mi espacio en GitHub, donde la innovación y la tecnología se fusionan. Aquí comparto proyectos que reflejan mi pasión por el desarrollo de soluciones tecnológicas, la inteligencia artificial y el diseño en 3D. 🌟
@@ -91,9 +91,6 @@ Soy una desarrolladora apasionada con experiencia en:
 - 📧 [Email](mailto:marianmolina2907@gmail.com)
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=¡Hola!%20Soy%20Marian&fontSize=30&fontColor=ffffff" />
-
 
 ## ✨ Frase inspiradora
 "El límite de lo que podemos crear está definido únicamente por nuestra imaginación." 🚀
