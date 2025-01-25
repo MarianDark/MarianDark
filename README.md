@@ -84,7 +84,7 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <img src="https://codewebbarcelona.com/wp-content/uploads/2018/12/imagenes-animadas-7.gif" width="300" />
 
 
 
