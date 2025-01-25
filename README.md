@@ -9,7 +9,9 @@
 
 ---
 
-## 🌟 Sobre mí
+<div align="center">
+  <h2>🌟 Sobre mí</h2>
+</div>
 Soy una desarrolladora apasionada con experiencia en:
 - 🔹 **Desarrollo web Full Stack**: Construcción de aplicaciones web dinámicas y responsivas con tecnologías modernas.
 - 🔹 **Inteligencia Artificial**: Diseño de modelos para resolver problemas del mundo real.
@@ -17,7 +19,10 @@ Soy una desarrolladora apasionada con experiencia en:
 - 🔹 **AutoCAD 3D**: Creación de modelos detallados para proyectos de ingeniería.
 - 🔹 **Photoshop**: Diseño y edición gráfica profesional.
 
-✨ Siempre motivada por la curiosidad, en constante búsqueda de desafíos que impulsen mi crecimiento personal y profesional. Creo en el poder del aprendizaje continuo para transformar ideas en realidades innovadoras. ✨
+<div align="center">
+  <p>✨ Siempre motivada por la curiosidad, en constante búsqueda de desafíos que impulsen mi crecimiento personal y profesional. Creo en el poder del aprendizaje continuo para transformar ideas en realidades innovadoras. ✨</p>
+</div>
+
 
 ---
 
