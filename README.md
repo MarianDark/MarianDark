@@ -13,7 +13,6 @@
 </div>
 
 
-
 <div align="center">
   <h2>🌟 Sobre mí</h2>
 </div>
@@ -77,6 +76,13 @@ Soy una desarrolladora apasionada con experiencia en:
   <img src="https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-bg=true&no-frame=true" />
 </div>
 
+
+---
+
+<div align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=MarianDark&style=flat-square&color=blue)
+  ![GitHub followers](https://img.shields.io/github/followers/MarianDark?style=social)
+</div>
 
 ---
 
