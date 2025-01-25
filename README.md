@@ -55,6 +55,10 @@ Soy una desarrolladora apasionada con experiencia en:
 ![Marian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianDark&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianDark&layout=compact&theme=radical)
 
+## 🏆 Trofeos de GitHub
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-bg=true&no-frame=true)
+
 ---
 
 ## 🏆 Proyectos Destacados
@@ -74,7 +78,7 @@ Soy una desarrolladora apasionada con experiencia en:
 ## 🌐 Encuéntrame en:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marian-molina-l%C3%B3pez-705b82240/)
-- 📧 [Email](marianmolina2907@gmail.com)
+- 📧 [Email](mailto:marianmolina2907@gmail.com)
 
 ---
 
