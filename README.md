@@ -88,8 +88,11 @@ Soy una desarrolladora apasionada con experiencia en:
 </div>
 
 
-## ✨ Frase inspiradora
-"El límite de lo que podemos crear está definido únicamente por nuestra imaginación." 🚀
+<div align="center">
+  <h2>✨ Frase inspiradora ✨</h2>
+  <p><em>"El límite de lo que podemos crear está definido únicamente por nuestra imaginación." 🚀</em></p>
+</div>
+
 
 ---
 
