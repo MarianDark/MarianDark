@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/MarianDark/github-readme-snakes/blob/output/github-contribution-grid-snake.svg" alt="snake"></img>
+  <img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 
