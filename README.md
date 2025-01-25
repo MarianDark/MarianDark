@@ -73,10 +73,8 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ## 🌐 Encuéntrame en:
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🌐 [Portafolio](https://tu-portafolio.com)
-- 🐦 [Twitter](https://twitter.com/tu-usuario)
-- 📧 [Email](mailto:tu-email@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/marian-molina-lópez-705b82240)
+- 📧 [Email](mailto:marianmolina2907@gmail.com)
 
 ---
 
