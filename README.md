@@ -84,8 +84,7 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 
-  <img src="https://img.shields.io/badge/Status-Coding-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 
 
 
