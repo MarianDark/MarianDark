@@ -7,7 +7,11 @@
 
 ![Banner](https://github.com/MarianDark/Marian/blob/main/asset/1.jpeg?raw=true)
 
----
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
 
 <div align="center">
   <h2>🌟 Sobre mí</h2>
