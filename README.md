@@ -84,7 +84,7 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="500" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="800" />
 </div>
 
 
