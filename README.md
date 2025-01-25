@@ -12,6 +12,7 @@
 <div align="center">
   <h2>🌟 Sobre mí</h2>
 </div>
+
 Soy una desarrolladora apasionada con experiencia en:
 - 🔹 **Desarrollo web Full Stack**: Construcción de aplicaciones web dinámicas y responsivas con tecnologías modernas.
 - 🔹 **Inteligencia Artificial**: Diseño de modelos para resolver problemas del mundo real.
