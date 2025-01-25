@@ -3,7 +3,7 @@
 
 Bienvenidos a mi espacio en GitHub, donde la innovación y la tecnología se fusionan. Aquí comparto proyectos que reflejan mi pasión por el desarrollo de soluciones tecnológicas, la inteligencia artificial y el diseño en 3D. 🌟
 
-![Banner](asset\Sin título-2.png)
+![Banner](./asset/Sin título-2.png)
 
 
 ---
