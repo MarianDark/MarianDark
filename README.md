@@ -83,9 +83,9 @@ Soy una desarrolladora apasionada con experiencia en:
 - 📧 [Email](mailto:marianmolina2907@gmail.com)
 
 ---
-
-  <img src="https://codewebbarcelona.com/wp-content/uploads/2018/12/imagenes-animadas-7.gif" width="300" />
-
+<div align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="500" />
+</div>
 
 
 ## ✨ Frase inspiradora
