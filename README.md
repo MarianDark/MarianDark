@@ -79,10 +79,11 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 
-<div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=MarianDark&style=flat-square&color=blue)
-  ![GitHub followers](https://img.shields.io/github/followers/MarianDark?style=social)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarianDark&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MarianDark?style=social" alt="GitHub followers" />
+</p>
+
 
 ---
 
