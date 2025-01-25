@@ -59,12 +59,6 @@ Soy una desarrolladora apasionada con experiencia en:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianDark&layout=compact&theme=radical)
 
 
-![Snake Animation](https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 ## 🏆 Trofeos de GitHub
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-bg=true&no-frame=true)
