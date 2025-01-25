@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=¡Hola!%20Soy%20Marian&fontSize=40&fontColor=ffffff" width="400" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=¡Hola!%20Soy%20Marian&fontSize=40&fontColor=ffffff" width="1000" />
 ### 💻 Full Stack Developer | 🔮 Desarrolladora en IA | 🛡️ Ciberseguridad | 🛠️ AutoCAD 3D | 🎨 Photoshop 
 
 Bienvenidos a mi espacio en GitHub, donde la innovación y la tecnología se fusionan. Aquí comparto proyectos que reflejan mi pasión por el desarrollo de soluciones tecnológicas, la inteligencia artificial y el diseño en 3D. 🌟
