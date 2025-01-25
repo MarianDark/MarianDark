@@ -8,9 +8,10 @@
 ![Banner](https://github.com/MarianDark/Marian/blob/main/asset/1.jpeg?raw=true)
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 <div align="center">
