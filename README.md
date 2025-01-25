@@ -74,7 +74,7 @@ Soy una desarrolladora apasionada con experiencia en:
 ## 🌐 Encuéntrame en:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marian-molina-l%C3%B3pez-705b82240/)
-- 📧 [Email](mailto:marianmolina2907@gmail.com)
+- 📧 [Email](marianmolina2907@gmail.com)
 
 ---
 
