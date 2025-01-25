@@ -84,6 +84,11 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 
+  <img src="https://img.shields.io/badge/Status-Coding-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+
+
+
 ## ✨ Frase inspiradora
 "El límite de lo que podemos crear está definido únicamente por nuestra imaginación." 🚀
 
