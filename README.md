@@ -57,7 +57,12 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ![Marian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianDark&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianDark&layout=compact&theme=radical)
-![Snake Animation](https://github.com/MarianDark/MarianDark/blob/output/github-contribution-grid-snake.svg)
+
+
+![Snake Animation](https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 ## 🏆 Trofeos de GitHub
@@ -86,6 +91,9 @@ Soy una desarrolladora apasionada con experiencia en:
 - 📧 [Email](mailto:marianmolina2907@gmail.com)
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=¡Hola!%20Soy%20Marian&fontSize=30&fontColor=ffffff" />
+
 
 ## ✨ Frase inspiradora
 "El límite de lo que podemos crear está definido únicamente por nuestra imaginación." 🚀
