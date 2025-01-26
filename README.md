@@ -126,8 +126,4 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 
-<<<<<<< HEAD
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!%20💻✨&fontSize=40&fontColor=ffffff" width="1000" />
-=======
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!%20💻✨&fontSize=40&fontColor=ffffff" width="1000" />
->>>>>>> f2bf70666133c8b60b3913aee03e820c0a00dad9
