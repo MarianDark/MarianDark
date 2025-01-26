@@ -5,7 +5,8 @@
 </div>
 
 
-![Banner](C:\Users\MarianDark\Desktop\pruebas\Marian\asset\3.gif?raw=true)
+![Banner](https://github.com/MarianDark/Marian/blob/main/asset/3.gif?raw=true)
+
 
 ---
 
