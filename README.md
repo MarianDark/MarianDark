@@ -7,11 +7,20 @@
 
 ![Banner](https://github.com/MarianDark/Marian/blob/main/asset/1.jpeg?raw=true)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarianDark&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MarianDark?style=social" alt="GitHub followers" />
+</p>
+
+---
 
 <div align="center">
   <img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
+---
 
 <div align="center">
   <h2>🌟 Sobre mí</h2>
@@ -27,7 +36,6 @@ Soy una desarrolladora apasionada con experiencia en:
 <div align="center">
   <p>✨ Siempre motivada por la curiosidad, en constante búsqueda de desafíos que impulsen mi crecimiento personal y profesional. Creo en el poder del aprendizaje continuo para transformar ideas en realidades innovadoras. ✨</p>
 </div>
-
 
 ---
 
@@ -70,20 +78,12 @@ Soy una desarrolladora apasionada con experiencia en:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianDark&layout=compact&theme=radical" />
 </div>
 
+---
 
 <div align="center">
   <h2>🏆 Trofeos de GitHub</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-bg=true&no-frame=true" />
 </div>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarianDark&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MarianDark?style=social" alt="GitHub followers" />
-</p>
-
 
 ---
 
@@ -101,7 +101,6 @@ Soy una desarrolladora apasionada con experiencia en:
   <p><strong>Estado</strong>: Completado</p>
 </div>
 
-
 ---
 
 <div align="center">
@@ -112,12 +111,12 @@ Soy una desarrolladora apasionada con experiencia en:
   </ul>
 </div>
 
-
 ---
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f7c9590063793.5e0c23465edc8.gif" width="400" />
 </div>
 
+---
 
 <div align="center">
   <h2>✨ Frase inspiradora ✨</h2>
