@@ -5,7 +5,7 @@
 </div>
 
 
-![Banner](C:\Users\MarianDark\Desktop\pruebas\Marian\asset\3.gif)
+![Banner](C:\Users\MarianDark\Desktop\pruebas\Marian\asset\3.gif?raw=true)
 
 ---
 
