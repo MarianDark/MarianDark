@@ -91,9 +91,9 @@ Soy una desarrolladora apasionada con experiencia en:
 <div align="center">
   <h2>🏆 Proyectos Destacados</h2>
 
-  <h3>🛠️ [Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto1)</h3>
-  <p><strong>Descripción</strong>: Breve resumen del proyecto, qué problema resuelve y las tecnologías utilizadas.</p>
-  <p><strong>Tecnologías</strong>: React, Node.js, MongoDB</p>
+  <h3>🛠️ [Restaurant-website]([https://github.com/tu-usuario/proyecto1](https://github.com/MarianDark/Restaurant-website))</h3>
+  <p><strong>Descripción</strong>: Este proyecto es una aplicación web desarrollada con Flask y Socket.IO, que incluye un chatbot, el objetivo principal es mejorar la experiencia del cliente en el restaurante Élyséum, ofreciendo información personalizada y un servicio automatizado.</p>
+  <p><strong>Tecnologías</strong>: Python, Flask, Socket.IO</p>
   <p><strong>Estado</strong>: En desarrollo</p>
 
   <h3>🤖 [Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto2)</h3>
