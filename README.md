@@ -92,18 +92,18 @@ Soy una desarrolladora apasionada con experiencia en:
   <h2>🏆 Proyectos Destacados</h2>
 
   <h3>🛠️ [ASClimaPlus](https://asclimaplus.com/)</h3>
-  <p><strong>Descripción</strong>: ASClimaPlus es una página web responsiva desarrollada para una empresa de servicios técnicos a domicilio en Madrid. El sitio ofrece servicios de instalacion, reparacion y mantenimiento de aire acondicionado fontanería, electricidad, entre otros, y permite a los usuarios consultar información detallada, precios estimados y contactar fácilmente para pedir presupuestos personalizados.</p>
-  <p><strong>Tecnologías</strong>: 
-<strong>Frontend</strong>:
+  <p><strong>DESCRIPCIÓN</strong>: ASClimaPlus es una página web responsiva desarrollada para una empresa de servicios técnicos a domicilio en Madrid. El sitio ofrece servicios de instalacion, reparacion y mantenimiento de aire acondicionado fontanería, electricidad, entre otros, y permite a los usuarios consultar información detallada, precios estimados y contactar fácilmente para pedir presupuestos personalizados.</p>
+  <p><strong>TECNOLOGÍAS</strong>: 
+<strong>FRONTEND</strong>:
 <strong>React</strong>: Biblioteca JavaScript para crear interfaces interactivas y componentes reutilizables.
 <strong>Tailwind CSS</strong>: Framework CSS utilitario para diseñar interfaces modernas y responsivas sin escribir CSS personalizado.
 <strong>React Router</strong>: Para manejar la navegación entre páginas de forma dinámica.
 <strong>Framer Motion</strong>: Para animaciones suaves y atractivas.
 
-<strong>Internacionalización</strong>:
+<strong>INTERNACIONALIZACIÓN</strong>:
 <strong>i18next</strong>: Para ofrecer contenido en español e inglés, sin duplicación de claves ni contenido.
 
-<strong>Backend</strong>:
+<strong>BACKEND</strong>:
 <strong>Node.js + Express</strong>: Para recibir formularios de contacto y presupuestos.
 <strong>MongoDB</strong>: Para almacenamiento de datos.
 
