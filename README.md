@@ -92,8 +92,34 @@ Soy una desarrolladora apasionada con experiencia en:
   <h2>🏆 Proyectos Destacados</h2>
 
   <h3>🛠️ [ASClimaPlus](https://asclimaplus.com/)</h3>
-  <p><strong>Descripción</strong>: Pagina Web para cliente diseñada con React y base de de datos en MongoDB.</p>
-  <p><strong>Tecnologías</strong>: React, Node, Mongo Atlas, Tailwind CSS.</p>
+  <p><strong>Descripción</strong>: ASClimaPlus es una página web responsiva desarrollada para una empresa de servicios técnicos a domicilio en Madrid y Barcelona. El sitio ofrece servicios de fontanería, electricidad, pintura, cerrajería, aire acondicionado, entre otros, y permite a los usuarios consultar información detallada, precios estimados y contactar fácilmente para pedir presupuestos personalizados..</p>
+  <p><strong>Tecnologías</strong>: Frontend:
+
+React: Biblioteca JavaScript para crear interfaces interactivas y componentes reutilizables.
+
+Tailwind CSS: Framework CSS utilitario para diseñar interfaces modernas y responsivas sin escribir CSS personalizado.
+
+React Router: Para manejar la navegación entre páginas de forma dinámica.
+
+Framer Motion (opcional): Para animaciones suaves y atractivas.
+
+Internacionalización:
+
+i18next: Para ofrecer contenido en español e inglés, sin duplicación de claves ni contenido.
+
+Backend (si aplica en versión futura):
+
+Node.js + Express: Para recibir formularios de contacto y presupuestos.
+
+MongoDB o Firebase: Para almacenamiento de datos.
+
+Otros:
+
+Vite o Create React App: Para la configuración inicial del proyecto.
+
+Responsive Design: Adaptación a móviles, tabletas y escritorios.
+
+Optimización de imágenes: Para mejor rendimiento y carga rápida.</p>
   <p><strong>Estado</strong>:
     Funcionando</p>
 
