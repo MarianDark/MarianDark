@@ -91,11 +91,11 @@ Soy una desarrolladora apasionada con experiencia en:
 <div align="center">
   <h2>🏆 Proyectos Destacados</h2>
 
-  <h3>🛠️ [Restaurant-website](https://github.com/MarianDark/Restaurant-website)</h3>
-  <p><strong>Descripción</strong>: Este proyecto es una aplicación web desarrollada con Flask y Socket.IO, que incluye un chatbot, el objetivo principal es mejorar la experiencia del cliente en el restaurante Élyséum, ofreciendo información personalizada y un servicio automatizado.</p>
-  <p><strong>Tecnologías</strong>: Python, Flask, Socket.IO</p>
+  <h3>🛠️ [ASClimaPlus](https://asclimaplus.com/)</h3>
+  <p><strong>Descripción</strong>: Pagina Web para cliente diseñada con React y base de de datos en MongoDB.</p>
+  <p><strong>Tecnologías</strong>: React, Node, Mongo Atlas, Tailwind CSS.</p>
   <p><strong>Estado</strong>:
-    Under Construction</p>
+    Funcionando</p>
 
   <h3>🤖 [Simulador Vida Virtual con IA](https://github.com/MarianDark/simulador-vida-virtual)</h3>
   <p><strong>Descripción</strong>: Un mini juego donde los personajes virtuales aprenden, interactúan y evolucionan utilizando Inteligencia Artificial. Los NPCs toman decisiones en tiempo real, aprenden de su entorno y cambian su comportamiento según las interacciones del usuario.</p>
