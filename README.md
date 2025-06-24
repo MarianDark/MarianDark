@@ -92,7 +92,7 @@ Soy una desarrolladora apasionada con experiencia en:
   <h2>🏆 Proyectos Destacados</h2>
 
   <h3>🛠️ [ASClimaPlus](https://asclimaplus.com/)</h3>
-  <p><strong>Descripción</strong>: ASClimaPlus es una página web responsiva desarrollada para una empresa de servicios técnicos a domicilio en Madrid y Barcelona. El sitio ofrece servicios de fontanería, electricidad, pintura, cerrajería, aire acondicionado, entre otros, y permite a los usuarios consultar información detallada, precios estimados y contactar fácilmente para pedir presupuestos personalizados..</p>
+  <p><strong>Descripción</strong>: ASClimaPlus es una página web responsiva desarrollada para una empresa de servicios técnicos a domicilio en Madrid. El sitio ofrece servicios de instalacion, reparacion y mantenimiento de aire acondicionado fontanería, electricidad, entre otros, y permite a los usuarios consultar información detallada, precios estimados y contactar fácilmente para pedir presupuestos personalizados.</p>
   <p><strong>Tecnologías</strong>: 
 <strong>Frontend</strong>:
 <strong>React</strong>: Biblioteca JavaScript para crear interfaces interactivas y componentes reutilizables.
