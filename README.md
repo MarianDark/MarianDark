@@ -93,35 +93,27 @@ Soy una desarrolladora apasionada con experiencia en:
 
   <h3>🛠️ [ASClimaPlus](https://asclimaplus.com/)</h3>
   <p><strong>Descripción</strong>: ASClimaPlus es una página web responsiva desarrollada para una empresa de servicios técnicos a domicilio en Madrid y Barcelona. El sitio ofrece servicios de fontanería, electricidad, pintura, cerrajería, aire acondicionado, entre otros, y permite a los usuarios consultar información detallada, precios estimados y contactar fácilmente para pedir presupuestos personalizados..</p>
-  <p><strong>Tecnologías</strong>: Frontend:
+  <p><strong>Tecnologías</strong>: 
+<strong>Frontend</strong>:
+<strong>React</strong>: Biblioteca JavaScript para crear interfaces interactivas y componentes reutilizables.
+<strong>Tailwind CSS</strong>: Framework CSS utilitario para diseñar interfaces modernas y responsivas sin escribir CSS personalizado.
+<strong>React Router</strong>: Para manejar la navegación entre páginas de forma dinámica.
+<strong>Framer Motion</strong>: Para animaciones suaves y atractivas.
 
-React: Biblioteca JavaScript para crear interfaces interactivas y componentes reutilizables.
+<strong>Internacionalización</strong>:
+<strong>i18next</strong>: Para ofrecer contenido en español e inglés, sin duplicación de claves ni contenido.
 
-Tailwind CSS: Framework CSS utilitario para diseñar interfaces modernas y responsivas sin escribir CSS personalizado.
+<strong>Backend</strong>:
+<strong>Node.js + Express</strong>: Para recibir formularios de contacto y presupuestos.
+<strong>MongoDB</strong>: Para almacenamiento de datos.
 
-React Router: Para manejar la navegación entre páginas de forma dinámica.
+<strong>Otros</strong>:
+<strong>Vite o Create React App</strong>: Para la configuración inicial del proyecto.
+<strong>Responsive Design</strong>: Adaptación a móviles, tabletas y escritorios.
+<strong>Optimización de imágenes</strong>: Para mejor rendimiento y carga rápida.</p>
 
-Framer Motion (opcional): Para animaciones suaves y atractivas.
-
-Internacionalización:
-
-i18next: Para ofrecer contenido en español e inglés, sin duplicación de claves ni contenido.
-
-Backend (si aplica en versión futura):
-
-Node.js + Express: Para recibir formularios de contacto y presupuestos.
-
-MongoDB o Firebase: Para almacenamiento de datos.
-
-Otros:
-
-Vite o Create React App: Para la configuración inicial del proyecto.
-
-Responsive Design: Adaptación a móviles, tabletas y escritorios.
-
-Optimización de imágenes: Para mejor rendimiento y carga rápida.</p>
   <p><strong>Estado</strong>:
-    Funcionando</p>
+    <strong>FUNCIONANDO</strong></p>
 
   <h3>🤖 [Simulador Vida Virtual con IA](https://github.com/MarianDark/simulador-vida-virtual)</h3>
   <p><strong>Descripción</strong>: Un mini juego donde los personajes virtuales aprenden, interactúan y evolucionan utilizando Inteligencia Artificial. Los NPCs toman decisiones en tiempo real, aprenden de su entorno y cambian su comportamiento según las interacciones del usuario.</p>
