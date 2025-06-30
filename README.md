@@ -5,7 +5,7 @@
 </div>
 
 
-![Banner](https://github.com/MarianDark/Marian/blob/main/asset/3.gif?raw=true)
+![Banner](https://github.com/MarianDark/MarianDark/blob/main/asset/YouCut_20250630_230444040(1).gif)
 
 
 ---
