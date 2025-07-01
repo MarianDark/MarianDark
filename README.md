@@ -1,7 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola!%20Soy%20Marian&fontSize=40&fontColor=ffffff" width="1200" />
 <div align="center">
   <h3>💻 Full Stack Developer | 🔮 Desarrolladora en IA | 🛡️ Ciberseguridad | 🛠️ AutoCAD 3D | 🎨 Photoshop </h3>
-  <p>Bienvenidos a mi espacio en GitHub, donde la innovación y la tecnología se fusionan. Aquí comparto proyectos que reflejan mi pasión por el desarrollo de soluciones tecnológicas, la inteligencia artificial y el diseño en 3D. 🌟</p>
+<div align="center">
+  <p>✨ <strong>Bienvenidos a mi espacio en GitHub</strong></p>
+  <p>Aquí nace la creatividad digital, donde el diseño, el código y la imaginación se entrelazan para dar vida a experiencias únicas.</p>
+  <p>Soy una creadora de mundos interactivos, apasionada por transformar ideas en realidades tecnológicas: desde páginas web funcionales hasta proyectos impulsados por inteligencia artificial y visuales con alma propia.</p>
+  <p>En cada línea de código dejo una parte de mi visión: <strong>orden, estética y propósito.</strong></p>
+  <p><em>“Donde otros ven errores, yo veo portales.” ⚡</em></p>
 </div>
 
 
