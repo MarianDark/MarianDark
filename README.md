@@ -88,10 +88,12 @@ Soy una desarrolladora apasionada con experiencia en:
 
 ---
 
-<div align="center">
-  <h2>🏆 Trofeos de GitHub</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-bg=true&no-frame=true" />
-</div>
+## 🏆 Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarianDark&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
@@ -119,8 +121,8 @@ Soy una desarrolladora apasionada con experiencia en:
 <strong>Responsive Design</strong>: Adaptación a móviles, tabletas y escritorios.
 <strong>Optimización de imágenes</strong>: Para mejor rendimiento y carga rápida.</p>
 
-  <p><strong>Estado</strong>:
-    <strong>FUNCIONANDO</strong></p>
+![Estado: FUNCIONANDO](https://img.shields.io/badge/Estado-FUNCIONANDO-brightgreen?style=flat-square)
+
 
   <h3>🤖 [MML Stack](https://mmlstack.com/)</h3>
 <p><strong>DESCRIPCIÓN</strong>: MML Stack es una página web profesional desarrollada para ofrecer servicios de diseño y desarrollo web, posicionamiento SEO, e-commerce y estrategias digitales personalizadas. El sitio está enfocado en ayudar a negocios a potenciar su presencia online con soluciones modernas, visuales y efectivas. Incluye presentación de servicios, planes detallados, testimonios, contacto, WhatsApp directo y política legal completa.</p>
@@ -147,9 +149,8 @@ Soy una desarrolladora apasionada con experiencia en:
 <strong>WhatsApp Botón flotante</strong>: Acceso directo desde cualquier sección del sitio.
 <strong>Panel de administración con conexión a backend</strong>: Para gestionar contactos y formularios desde MongoDB.
 
-<p><strong>Estado</strong>: 
-  <strong>FUNCIONANDO</strong>
-</p>
+![Estado: FUNCIONANDO](https://img.shields.io/badge/Estado-FUNCIONANDO-brightgreen?style=flat-square)
+
 </div>
 
 ---
