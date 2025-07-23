@@ -78,8 +78,6 @@ Soy una desarrolladora apasionada con experiencia en:
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Helmet-4479A1?style=for-the-badge&logo=helmet&logoColor=white" />
   <img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yup-29B6F6?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
-  <img src="https://img.shields.io/badge/Formik-FF6F61?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
