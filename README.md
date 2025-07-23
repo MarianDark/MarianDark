@@ -122,11 +122,42 @@ Soy una desarrolladora apasionada con experiencia en:
   <p><strong>Estado</strong>:
     <strong>FUNCIONANDO</strong></p>
 
-  <h3>🤖 [Simulador Vida Virtual con IA](https://github.com/MarianDark/simulador-vida-virtual)</h3>
-  <p><strong>Descripción</strong>: Un mini juego donde los personajes virtuales aprenden, interactúan y evolucionan utilizando Inteligencia Artificial. Los NPCs toman decisiones en tiempo real, aprenden de su entorno y cambian su comportamiento según las interacciones del usuario.</p>
-  <p><strong>Tecnologías</strong>: Frontend: React, PixiJS, Anime.js - Backend: FastAPI, TensorFlow, MongoDB, OAuth - API`s: OpenAI API, WebGL </p>
-  <p><strong>Estado</strong>:
-    Under Construction</p>
+  <h3>🤖 [MML Stack](https://mmlstack.com/)</h3>
+<p><strong>DESCRIPCIÓN</strong>: MML Stack es una página web profesional desarrollada para ofrecer servicios de diseño y desarrollo web, posicionamiento SEO, e-commerce y estrategias digitales personalizadas. El sitio está enfocado en ayudar a negocios a potenciar su presencia online con soluciones modernas, visuales y efectivas. Incluye presentación de servicios, planes detallados, testimonios, contacto, WhatsApp directo y política legal completa.</p>
+
+<p><strong>TECNOLOGÍAS</strong>:</p>
+<p><strong>FRONTEND</strong>:</p>
+<ul>
+  <li><strong>React</strong>: Para construir interfaces dinámicas, reutilizables y altamente interactivas.</li>
+  <li><strong>Tailwind CSS</strong>: Para un diseño visual limpio, responsivo y coherente en todo el sitio.</li>
+  <li><strong>React Router</strong>: Para la navegación entre secciones y páginas individuales de servicios.</li>
+  <li><strong>Framer Motion</strong>: Para animaciones fluidas que mejoran la experiencia del usuario.</li>
+</ul>
+
+<p><strong>INTERNACIONALIZACIÓN</strong>:</p>
+<ul>
+  <li><strong>i18next</strong>: Permite mostrar el sitio en español e inglés sin duplicar claves, manteniendo todo bien organizado.</li>
+</ul>
+
+<p><strong>BACKEND</strong>:</p>
+<ul>
+  <li><strong>Node.js + Express</strong>: Para gestionar formularios de contacto y solicitudes de presupuesto.</li>
+  <li><strong>MongoDB Atlas</strong>: Para almacenar datos de clientes y mensajes.</li>
+  <li><strong>Nodemailer</strong>: Para enviar notificaciones por correo al recibir nuevos formularios.</li>
+</ul>
+
+<p><strong>Otros</strong>:</p>
+<ul>
+  <li><strong>Diseño responsive</strong>: Totalmente adaptado a móviles, tablets y escritorio.</li>
+  <li><strong>Optimización SEO</strong>: Etiquetas meta, enlaces internos, estructura clara y tiempos de carga optimizados.</li>
+  <li><strong>Scroll suave y efectos visuales</strong>: Para guiar al usuario a través del contenido.</li>
+  <li><strong>WhatsApp Botón flotante</strong>: Acceso directo desde cualquier sección del sitio.</li>
+  <li><strong>Panel de administración con conexión a backend</strong>: Para gestionar contactos y formularios desde MongoDB.</li>
+</ul>
+
+<p><strong>Estado</strong>: 
+  <strong>FUNCIONANDO</strong>
+</p>
 </div>
 
 ---
